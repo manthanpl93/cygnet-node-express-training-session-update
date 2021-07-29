@@ -41,3 +41,8 @@ _Server side validation and ORM integration in express_<br>
         npx sequelize-cli db:seed:undo --seed 20210725080301-todos.js
         
    ```
+   
+   ## Refrences
+   [Sequelize Migrations](https://sequelize.org/master/manual/migrations.html)<br>
+   [Sequelize Types](https://sequelize.org/v5/manual/data-types.html)<br>
+   [Sequelize Model](https://sequelize.org/master/class/lib/model.js~Model.html)
