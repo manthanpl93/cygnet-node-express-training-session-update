@@ -9,6 +9,10 @@ _Basics of Node JS, Express and Routes_<br>
 _Server side validation and ORM integration in express_<br>
 [Download](https://cipl2014-my.sharepoint.com/:v:/g/personal/manthan_patel_cygnetinfotech_com/ESqxBtHaXAtHrIv9CABIlrgBuqBsO0zboynDBs3NKm784Q)<br>
 
+**Day 3**<br>
+_React Basics: Component, State, Props_<br>
+[Download](https://drive.google.com/file/d/13x09OPMbYEfoEzY1up3slGSkFQdMkkgc/view?usp=sharing)<br>
+
 ## Useful commands
 
   _Express_<br>
