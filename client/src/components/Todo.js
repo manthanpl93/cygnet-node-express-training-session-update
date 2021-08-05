@@ -1,18 +1,21 @@
+import API from "../lib/api";
 const Todo = ({ todo, todos, setTodos }) => {
-  const completeHandler = () => {
+  const completeHandler = async () => {
+    const updatedTodo = await API.todos.patch(todo.id, {
+      ...todo,
+      completed: !todo.completed,
+    });
     const currentTodos = todos.map((el) => {
       if (el.id === todo.id) {
-        return {
-          ...todo,
-          completed: !todo.completed,
-        };
+        return updatedTodo;
       }
       return el;
     });
     setTodos(currentTodos);
   };
 
-  const deleteHandler = () => {
+  const deleteHandler = async () => {
+    await API.todos.delete(todo.id);
     setTodos(todos.filter((el) => el.id !== todo.id));
   };
 
