@@ -17,6 +17,11 @@ _React Basics: Component, State, Props_<br>
 _React API Integration_<br>
 [Download](https://drive.google.com/file/d/1H216N1KN4gEtAy0uxHPjJ3GY36yYCkb0/view?usp=sharing)<br>
 
+**Day 5**<br>
+_Functinal Testing in Node Js and Express_<br>
+[Download](https://drive.google.com/file/d/1mJ0tM2bO-S3r8rPC3WlmbS97gGSUhlqE/view?usp=sharing)<br>
+
+
 ## Useful commands
 
   _Express_<br>
@@ -27,6 +32,8 @@ _React API Integration_<br>
       npm i body-parser
       npm i cors
       npm i -g nodemon
+      npm i -D jest supertest
+      set NODE_ENV=production
   ```
    
   _Sequalize ORM_<br>
@@ -47,6 +54,9 @@ _React API Integration_<br>
         npx sequelize-cli db:seed --seed 20210725080301-todos.js
         npx sequelize-cli db:seed:undo:all
         npx sequelize-cli db:seed:undo --seed 20210725080301-todos.js
+        
+        npx sequelize db:migrate --env unitTest
+        
         
    ```
    
