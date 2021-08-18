@@ -3,11 +3,11 @@
 ## Videos
 **Day 1**<br>
 _Basics of Node JS, Express and Routes_<br>
-[Download](https://cipl2014-my.sharepoint.com/:v:/g/personal/manthan_patel_cygnetinfotech_com/ERxky-0E9OtHjKNGitp9YloBSQvWdFSPDouYdXgeEl0MhA)<br>
+[Download](https://drive.google.com/file/d/1v6f7BiqV-JDdgFZ27tqsQtbwPqJ4mGcl/view?usp=sharing)<br>
 
 **Day 2**<br>
 _Server side validation and ORM integration in express_<br>
-[Download](https://cipl2014-my.sharepoint.com/:v:/g/personal/manthan_patel_cygnetinfotech_com/ESqxBtHaXAtHrIv9CABIlrgBuqBsO0zboynDBs3NKm784Q)<br>
+[Download](https://drive.google.com/file/d/1bbj5w9vlrVO-ZcRd83pi8wZ4-bVEQzFB/view?usp=sharing)<br>
 
 **Day 3**<br>
 _React Basics: Component, State, Props_<br>
